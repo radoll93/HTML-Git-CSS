@@ -26,7 +26,7 @@
     - add comments that describe its style
 
 
-![homepage image](./02-Homework/Assets/01-html-css-git-homework-demo.png)
+![homepage image](./Assets/01-html-css-git-homework-demo.png)
 
 
 
